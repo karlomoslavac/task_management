@@ -11,11 +11,9 @@ U projektu sam implementirao sustav za upravljanje zadacima, odnosno 'Task Manag
 - Ažuriranje zadatka: Korisnici mogu mijenjati informacije o zadatku kao što su ime, opis, status i rok za dovršetak.
 - Brisanje zadatka: Korisnici mogu obrisati postojeći zadatak iz sustava.
 
-## Pokretanje aplikacije lokalno
+## Pokretanje aplikacije 
 
-Slijedite ove korake kako biste pokrenuli aplikaciju lokalno:
-
-1. Klonirajte ovaj GitHub repozitorij na svoje računalo:  git clone <repozitorij_url>
+1. Klonirajte ovaj GitHub repozitorij na svoje računalo:  git clone <https://github.com/karlomoslavac/task_management/tree/backend>
 2. Uđite u direktorij projekta:  cd task-management
 3. Instalirajte potrebne ovisnosti definirane u requirements.txt datoteci:  pip install -r requirements.txt
 4. Pokrenite aplikaciju:  python app.py
